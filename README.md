@@ -1,4 +1,4 @@
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://fageer.github.io/weather-app/"><strong>➥ Live Demo</strong></a>
 
 ### Weather App
 In this project i use a weather api and we get data from <a href="https://openweathermap.org/">openweathermap.org/</a> api❗️
